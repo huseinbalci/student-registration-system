@@ -1,0 +1,8 @@
+Name                Gender    Date Of Birth  Email                    Mobile         Password  
+
+James               Male      6 July         james@ox.ac.uk           05659998877    james1963  
+Helga               Female    17 March       helga@goethe.edu         05557678899    helga2005    
+Dave                Male      31 December    dave@harvard.edu         05316427586    dave1961
+Jessica             Female    9 July         jessica@stanford.edu     05990989887    jes1998
+Ece                 Female    22 April       ece@yasar.edu.tr         05556667788    ece2023   
+Kirk                Male      12 June        kirk@metal.com           05431112233    kirk666   
